@@ -1,3 +1,3 @@
-# weather_in_Paris
-Weather prediction using machine learning
+# Paris weather prediction
 
+Weather prediction using machine learning
