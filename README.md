@@ -1,6 +1,6 @@
 # Paris weather prediction
 
-## DATA
+## Data
 
 Weather data is downloaded from [Darksky](https://darksky.net/dev). The first 1000 accesses are totally free, but after that, the service will be shut down, unless one provides the payment method. 
 
@@ -24,4 +24,4 @@ The .csv file contains columns as mentioned below:
 First approach:
 * LSTM
 * XGBoost
-* Reinforced learning
+* Reinforcement learning
