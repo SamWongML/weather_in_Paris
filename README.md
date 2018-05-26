@@ -13,7 +13,8 @@ The .csv file contains columns as mentioned below:
 * apparent_temperature
 * precip_intensity
 * precip_probability
-* dew_point,humidity
+* dew_point
+* humidity
 * pressure
 * wind_speed
 * cloud_cover
